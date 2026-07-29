@@ -1,0 +1,10 @@
+#python Note
+
+python 490.py <test.txt
+
+
+
+
+#list內容物反轉
+
+list.reverse()
